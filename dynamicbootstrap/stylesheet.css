@@ -1,0 +1,84 @@
+.navigation {
+  background-color: lightgray;
+
+}
+.fa {
+  margin: 5px;
+  padding: 5px;
+  font-size: 15px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+  
+}
+
+.fa:hover {
+  opacity: 0.5;
+  color: black;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+.fa-instagram {
+  color: white;
+  background: rgb(243, 94, 119);
+}
+.fa-linkedin {
+  background-color: blue;
+  color: white;
+}
+.carousel-slide {
+  height: 50px;
+}
+
+.item, img{
+   height: 250px;
+   width:  100%;
+   
+}
+@media (max-width: 600px){
+  .btn {
+    display: none;
+  }
+#icon {
+  max-width:250px;
+  margin: 1% auto;
+}
+h4{
+  font-size: 1.3em;
+}
+p{
+  display:none;
+}
+}
+.container{
+  margin: 2% auto;
+}
+footer{
+  width:100%;
+  background-color:orange;
+  padding:3%;
+  color:white;
+}
+#jumbotron{
+  width:100%;
+  margin-top: 15px;
+   
+  
+}
+.jumbotron{
+  margin-top:50px;
+  height:100%;
+}
+.btn{
+  background-color: grey;
+  color: white;
+}

@@ -1,0 +1,45 @@
+.jumbotron {
+    background-color: lightgrey;
+
+    
+}
+.row{
+    list-style: none;
+}
+.col-sm-12 {
+    background-image: url("selfie.jpeg") center no-repeat;
+    background-size: 20% 20%;
+    background-repeat: no-repeat;
+    
+}
+.col-sm-12 {
+    border-style: double;
+  
+}
+.col-md-12 {
+    border-style: double;
+}
+.btngoogle {
+    background-color:blue;
+    color: white;
+}
+.btninstagram {
+    background-color: rgb(236, 33, 169);
+    color: white;
+}
+.btntwitter {
+    background-color: rgb(40, 137, 247);
+    color: white;
+}
+.btnlinkedin {
+    background-color: rgb(76, 121, 245);
+    color: white;
+}
+.favorites{
+    margin-top: 5%;
+    
+}
+.col-md-12 {
+    background-color: lightgrey;
+    color: black;
+}
